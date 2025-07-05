@@ -40,3 +40,23 @@ This basically mean if we access for example an array withoutoptional Chaining a
  this will give an error
 but with optional chaining (?.) we get undefined as outcome.
  */
+
+
+
+
+// Primitive Datatypes
+/**
+ * string
+ * Number
+ * Boolean
+ * Symbols
+ * Null
+ * Undefined
+ * BigInt
+ */
+
+// Reference Type(Non-Primitive) Datatypes
+//**
+// Object, Arrays, Functions */
+
+
