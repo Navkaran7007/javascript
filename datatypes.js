@@ -59,4 +59,8 @@ but with optional chaining (?.) we get undefined as outcome.
 //**
 // Object, Arrays, Functions */
 
+// ToFixed for float and toString to convert to string
 
+
+const currency = 1000000;
+console.log(currency.toLocaleString())
